@@ -2,6 +2,6 @@
 
 int main(void){
   printf("hello world!");
-  printf("changed in github");
+  printf("2nd edited in github");
   return 0;
 }
